@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+body {
+    background-image: url(HealthyFood.jpg);
+    -webkit-font-smoothing: anitialized;
+    -webkit-overflow-scrolling: touch;
+}
+
+.backgroundColor {
+    background-color: white;
+}
+
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+input {
+    font-family: 'Libre Baskerville', serif;
+    width: 50%;
+}
+
+label {
+    font-family: 'Libre Baskerville', serif;
+}
+
+button {
+    font-family: 'Libre Baskerville', serif;
+    margin-left: 20px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.table {
+    margin-left: 120px;
+    padding-right: 120px;
+    width: 80%;
+}
+.form-control {
+    width: 30%;
+    align-items: center;
+}
